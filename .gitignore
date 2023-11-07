@@ -1,0 +1,5 @@
+/datasets/
+/eval-package-2021/
+/fairseq-a/
+*__pycache__
+/xlsr2_300m.pt
