@@ -49,7 +49,6 @@ For the computation of the minimum t-DCF and EER (Equal Error Rate), we strongly
 While the scores for our most significant results are available in the 'Scores' folder, the precise metrics reported in our paper can be obtained by utilizing the official evaluation package.
 
 ## Citation
-## Citation
 
 If you find this repository valuable for your work, please consider citing our paper:
 
